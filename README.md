@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Xu Colin.
 
-<!--
-**colinxu2020/Colinxu2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm:
+- Developer
+- [AOSC OS](https://github.com/AOSC-Dev) Maintainer
+- Minecraft Modder
+- Security Researcher
+- Student
 
-Here are some ideas to get you started:
+My Projects:
+ - [slh-dsa](https://pypi.org/project/slh-dsa): Pure Python implementation of the SLH-DSA algorithm, based on FIPS 205.
+   Used by the Trezor cryptocurrency hardware wallet.
+ - [Random Optimization](https://modrinth.com/mod/random-optimization): A Mincraft mod that improves Minecraft's performance and fix serval bugs.
+   With over 1 million downloads, it significantly improves game startup performance.
+ - [Huorong ATP Rules](https://github.com/colinxu2020/Huorong-ATP-Rules): maintained fork of https://github.com/JerryLinLinLin/Huorong-ATP-Rules.
+   With fewer false positives and native support for Huorong Sysdiag V6.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security Disclosures:
+  - CNVD-2026-28042: High-severity local privilege escalation vulnerability in Mythware.
+
+GPG Keys:
+  - `81357B654FBEF2AD009CEB3A30CAD8CC8FD6EE77`. Used to sign objects since February 20, 2026.
+  - `4645C1827AB4990C ` and `8CF3D47435C07513`. Used to sign commits between December 10, 2025 and February 20, 2026.
+
+Contacts:
+  - Email: colinxu2020@gmail.com and me@pulldown.dev.
+  - Telegram: [@pulldowndev](https://t.me/pulldowndev).
+  - Legacy Telegram: [@colinxu2020](https://t.me/colinxu2020).
