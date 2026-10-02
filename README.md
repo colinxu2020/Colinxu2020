@@ -10,9 +10,9 @@ I'm:
 My Projects:
  - [slh-dsa](https://pypi.org/project/slh-dsa): Pure Python implementation of the SLH-DSA algorithm, based on FIPS 205.
    Used by the Trezor cryptocurrency hardware wallet.
- - [Random Optimization](https://modrinth.com/mod/random-optimization): A Mincraft mod that improves Minecraft's performance and fix serval bugs.
-   With over 1 million downloads, it significantly improves game startup performance.
- - [Huorong ATP Rules](https://github.com/colinxu2020/Huorong-ATP-Rules): maintained fork of https://github.com/JerryLinLinLin/Huorong-ATP-Rules.
+ - [Random Optimization](https://modrinth.com/mod/random-optimization): A Minecraft mod that improves Minecraft's performance and fixes serval bugs.
+   With over one hundred thousand downloads, it significantly improves game startup performance.
+ - [Huorong ATP Rules](https://github.com/colinxu2020/Huorong-ATP-Rules): A maintained fork of https://github.com/JerryLinLinLin/Huorong-ATP-Rules.
    With fewer false positives and native support for Huorong Sysdiag V6.
 
 Security Disclosures:
@@ -20,7 +20,7 @@ Security Disclosures:
 
 GPG Keys:
   - `81357B654FBEF2AD009CEB3A30CAD8CC8FD6EE77`. Used to sign objects since February 20, 2026.
-  - `4645C1827AB4990C ` and `8CF3D47435C07513`. Used to sign commits between December 10, 2025 and February 20, 2026.
+  - `91D457323E072289B5D4097D8CF3D47435C07513` and `496DF055B36263100311E4D14645C1827AB4990C`. Used to sign commits between December 10, 2025 and February 20, 2026.
 
 Contacts:
   - Email: colinxu2020@gmail.com and me@pulldown.dev.
