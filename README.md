@@ -4,14 +4,13 @@ I'm:
 - Developer
 - [AOSC OS](https://github.com/AOSC-Dev) Maintainer
 - Minecraft Modder
-- Security Researcher
 - Student
 
 My Projects:
  - [slh-dsa](https://pypi.org/project/slh-dsa): Pure Python implementation of the SLH-DSA algorithm, based on FIPS 205.
    Used in [Trezor's Python tooling](https://github.com/trezor/trezor-firmware/blob/b5d19ccd77a589ce2518ab61a18acffae0598cae/python/src/trezorlib/_internal/firmware_headers.py#L564-L566) to verify SLH-DSA signatures on bootloader images. Downloaded over 200,000 times from PyPI in September 2026 alone.
  - [Random Optimization](https://modrinth.com/mod/random-optimization): A Minecraft mod that improves Minecraft's performance and fixes several bugs.
-   With over one hundred thousand downloads, it significantly improves game startup performance.
+   With over twp hundred thousand downloads, it significantly improves game startup performance.
  - [Huorong ATP Rules](https://github.com/colinxu2020/Huorong-ATP-Rules): A maintained fork of https://github.com/JerryLinLinLin/Huorong-ATP-Rules.
    With fewer false positives and native support for Huorong Sysdiag V6.
 
